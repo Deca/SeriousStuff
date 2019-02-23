@@ -27,33 +27,7 @@ div.css({
     $(document.activeElement).blur();
 
 
-    /*
-      Start drag listener.
-      Adapted from jQuery console bookmarklet:
-      http://github.com/jaz303/jquery-console
-    */
 
-    $titleBar.on({
-      mousedown: function (e) {
-        var offset = $box.offset();
-        dragging = [e.pageX - offset.left, e.pageY - offset.top];
-       
-        e.preventDefault();
-      },
-      mouseup: function () {
-        dragging = false;
-   
-      }
-    });
-
-    $target.on('mousemove', function (e) {
-      if (dragging) {
-        $box.css({
-          left: e.pageX - dragging[0],
-          top: e.pageY - dragging[1]
-        });
-      }
-    });
 
 
 var mainStyle = "max-width:100px; margin: 0; padding: 5px; background-color: #abc; position: fixed; top: 90px; right:0px; z-index: 50000;";
