@@ -1,8 +1,5 @@
 {
   "Volatility":{
-   "indicators": "diocane"
-  },
-  "Oscillators":{
-   "indicators":"porciodio"
-  }
+            "azimuth":1.210972523515367,
+            "altitude":-0.2865040503006327 }
 }  
