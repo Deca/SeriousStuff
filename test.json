@@ -1,8 +1,6 @@
-{
-  "Volatility":{
-   "indicators":["BB Meow Mix (Lite) [acatwithwithcharts]","CCI + WAVE-PM (Lite) [ACatWithCharts]","WAVE-PM Meow Mix (Lite) [acatwithcharts]","3D WAVE-PM PGN/ANON edited","Gap-O-Matic","Volume"]
-  },
-  "Oscillators":{
-   "indicators":["SMA 50-100-200 + EMA 12-26 + MTF SMA 200 by Deca","CHOP_LRSI","RSI / STOCH RSI / MFI OVERLAY by Deca","CCI + WAVE-PM (Lite) [ACatWithCharts]","Gap-O-Matic","Volume"]
+{ 
+  "presets": { 
+    "Volatility": ["BB Meow Mix (Lite) [acatwithwithcharts]","CCI + WAVE-PM (Lite) [ACatWithCharts]","WAVE-PM Meow Mix (Lite) [acatwithcharts]","3D WAVE-PM PGN/ANON edited","Gap-O-Matic","Volume"],
+    "Oscillators":["SMA 50-100-200 + EMA 12-26 + MTF SMA 200 by Deca","CHOP_LRSI","RSI / STOCH RSI / MFI OVERLAY by Deca","CCI + WAVE-PM (Lite) [ACatWithCharts]","Gap-O-Matic","Volume"]
   }
 }
