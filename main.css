@@ -9,7 +9,7 @@ html, body {
   top: 0px;
   right: 0px;
   border: 1px solid black;
-  width: 380px;
+  width: 400px;
   padding-bottom: 15px;
   height: auto;
   background-color: #fff;
@@ -43,7 +43,7 @@ height: 8vh;
 }
  
  #tvIndicatorMultiselect > select {
-width: 100%;
+width: 90%;
 }
 
 /*
