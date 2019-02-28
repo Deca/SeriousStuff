@@ -16,12 +16,16 @@
       <div class='row'>
          <div class='col-12' id="tvIndicatorMultiselect">    
              <button id='retrieveIndicators' class='btn btn-primary btn-sm'>Retrieve indicators</button>
-            <div style="display: flex;">
-               <select multiple="multiple" data-toggle="select">
-                  <option value="">Select indicators</option>
-               </select>    
-               <button type="button" class="btn btn-default" id="addIndicatorsBtn">Add</button>
-         </div>
+            
+              <div class="input-group">
+                <select class="form-control" data-val="true" multiple="multiple" data-toggle="select">
+                    <option value="">Select indicators</option>
+                </select>
+                <span class="input-group-btn">
+                    <button class="btn btn-success"  type="button" id="addIndicatorsBtn">Add</button>
+               </span>
+            </div>
+      
          </div>         
        </div>
 </div>
