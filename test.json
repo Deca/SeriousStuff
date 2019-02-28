@@ -1,1 +1,40 @@
-{"result":{"uv":0,"uv_time":"2019-02-28T12:10:15.939Z","uv_max":11.5516,"uv_max_time":"2019-02-28T04:31:29.057Z","ozone":265.1,"ozone_time":"2019-02-28T12:06:12.909Z","safe_exposure_time":{"st1":null,"st2":null,"st3":null,"st4":null,"st5":null,"st6":null},"sun_info":{"sun_times":{"solarNoon":"2019-02-28T04:31:29.057Z","nadir":"2019-02-27T16:31:29.057Z","sunrise":"2019-02-27T22:07:15.973Z","sunset":"2019-02-28T10:55:42.140Z","sunriseEnd":"2019-02-27T22:09:48.230Z","sunsetStart":"2019-02-28T10:53:09.883Z","dawn":"2019-02-27T21:42:30.795Z","dusk":"2019-02-28T11:20:27.318Z","nauticalDawn":"2019-02-27T21:13:19.012Z","nauticalDusk":"2019-02-28T11:49:39.101Z","nightEnd":"2019-02-27T20:43:25.225Z","night":"2019-02-28T12:19:32.888Z","goldenHourEnd":"2019-02-27T22:39:37.883Z","goldenHour":"2019-02-28T10:23:20.230Z"},"sun_position":{"azimuth":1.210972523515367,"altitude":-0.2865040503006327}}}}
+{  
+   "result":{  
+      "uv":0,
+      "uv_time":"2019-02-28T12:10:15.939Z",
+      "uv_max":11.5516,
+      "uv_max_time":"2019-02-28T04:31:29.057Z",
+      "ozone":265.1,
+      "ozone_time":"2019-02-28T12:06:12.909Z",
+      "safe_exposure_time":{  
+         "st1":null,
+         "st2":null,
+         "st3":null,
+         "st4":null,
+         "st5":null,
+         "st6":null
+      },
+      "sun_info":{  
+         "sun_times":{  
+            "solarNoon":"2019-02-28T04:31:29.057Z",
+            "nadir":"2019-02-27T16:31:29.057Z",
+            "sunrise":"2019-02-27T22:07:15.973Z",
+            "sunset":"2019-02-28T10:55:42.140Z",
+            "sunriseEnd":"2019-02-27T22:09:48.230Z",
+            "sunsetStart":"2019-02-28T10:53:09.883Z",
+            "dawn":"2019-02-27T21:42:30.795Z",
+            "dusk":"2019-02-28T11:20:27.318Z",
+            "nauticalDawn":"2019-02-27T21:13:19.012Z",
+            "nauticalDusk":"2019-02-28T11:49:39.101Z",
+            "nightEnd":"2019-02-27T20:43:25.225Z",
+            "night":"2019-02-28T12:19:32.888Z",
+            "goldenHourEnd":"2019-02-27T22:39:37.883Z",
+            "goldenHour":"2019-02-28T10:23:20.230Z"
+         },
+         "sun_position":{  
+            "azimuth":1.210972523515367,
+            "altitude":-0.2865040503006327
+         }
+      }
+   }
+}
