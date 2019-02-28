@@ -46,6 +46,9 @@ height: 8vh;
 width: 90%;
 }
 
+.ms-drop ul>li {
+text-align:left;
+}
 /*
 body {
   background: #111111;
