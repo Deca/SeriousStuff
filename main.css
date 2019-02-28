@@ -42,7 +42,9 @@ textarea {
 height: 8vh;
 }
  
- 
+ #tvIndicatorMultiselect > select {
+width: 100%;
+}
 
 /*
 body {
