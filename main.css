@@ -69,6 +69,10 @@ html, body {
   height: 100%;
 }
 
+#container {
+  background:#ff0000;
+}
+
 body {
   background: #111111;
   font-family: "metropolis-regular", sans-serif;
