@@ -64,7 +64,7 @@ javascript:(function(){
 
     $("#load").click(function(event){
         event.preventDefault();
-          $("#header-toolbar-indicators").trigger('click');
+          $("#header-toolbar-indicators div").trigger('click');
 
          setTimeout( function(){ 
 
